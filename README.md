@@ -118,4 +118,4 @@ Seluruh bahan yang diperlukan untuk merakit dan mengoperasikan sistem ini secara
 ---
 
 ## 📄 Lisensi
-Didistribusikan di bawah lisensi open-source **MIT License**. Dikembangkan oleh **Muhammad Fikri**.
+Didistribusikan di bawah lisensi open-source **MIT License**. Dibuat dengan ❤️ oleh **Muhammad Fikri Dev**.
